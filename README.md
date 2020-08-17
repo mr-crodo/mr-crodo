@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align='center'>
-  <img  src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
+  <img  src="https://giphy.com/gifs/du3J3cXyzhj75IOgvA/html5" alt="Лабрадор в свитере печатает на компьютере">
 </p>
 
 
