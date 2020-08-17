@@ -1,6 +1,13 @@
-### Hi there 👋
+<p align='center'>
+  <img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="логотип GitHub">
+</p>
 
-<!--
+<h2 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> My name is Nasib</h2>
+
+<p align="center">
+  Здесь я храню свои заметки и экспериментирую с кодом
+</p>
+<!-- 
 **mr-crodo/mr-crodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
