@@ -2,7 +2,7 @@
   <img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="логотип GitHub">
 </p>
 
-<h2 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> My name is Nasib</h2>
+<h2 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> <br>My name is Nasib</h2>
 
 <p align="center">
 - 🔭 This is where I keep my notes and experiment with the code
