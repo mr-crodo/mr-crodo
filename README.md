@@ -4,6 +4,15 @@
 
 <h1 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> <br>My name is Nasib</h1>
 
+<h2>
+- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.</h2>
+<h2>
+- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University.
+</h2>
+<h2>
+- 🌱 I’m currently studying Java Script and React.
+</h2>
+
 <p align="center">
 - 🔭 This is my gitHub stats
 </p>
@@ -19,12 +28,7 @@
 -->
 
 <table><tr><td valign="top" width="50%">
-<h2>
-- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.<br>
-- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University <br>
-- 🌱 I’m currently studying Java Script and React <br>
 
-</h2>
 
 </td></tr></table>
 
