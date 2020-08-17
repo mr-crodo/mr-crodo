@@ -34,7 +34,7 @@
 - [my first portfolio site](https://mr-crodo.github.io/site1/)
 - [my first game in Java Script](https://mr-crodo.github.io/game1/)
 <p align="center">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&border=true" alt="foush's Github stats">
+  <img width="300px" src="https://media.giphy.com/media/hTx7NalHuPFYimYxR6/giphy.gif" alt="foush's Github stats">
 </p><br>
 
 - [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
