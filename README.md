@@ -2,7 +2,7 @@
   <img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="логотип GitHub">
 </p>
 
-<h2 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> <br>My name is Nasib</h2>
+<h1 align="center"><img width="300px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> <br>My name is Nasib</h1>
 
 <p align="center">
 - 🔭 This is my gitHub stats
@@ -19,10 +19,12 @@
 -->
 
 <table><tr><td valign="top" width="50%">
-#- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.#
-#- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University
-#- 🌱 I’m currently studying Java Script and React
+<h2>
+- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.<br>
+- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University <br>
+- 🌱 I’m currently studying Java Script and React <br>
 
+</h2>
 
 </td></tr></table>
 
