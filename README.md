@@ -3,7 +3,7 @@
   <img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Лабрадор в свитере печатает на компьютере">
 </p>
 
-##<img width="120px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> My Name is Nasib
+<img width="120px" src="https://media.giphy.com/media/vmfAVNcudRYli/giphy.gif"> #My Name is Nasib
 <!--
 **mr-crodo/mr-crodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
