@@ -13,9 +13,11 @@
 - 🌱 I’m currently studying Java Script and React.
 </h2>
 
-<h2 align="center">
-  <img width="300px" src="https://media.giphy.com/media/hTx7NalHuPFYimYxR6/giphy.gif" alt="foush's Github stats">
-</h2><br>
+<p align="center">
+  <img src="https://media.giphy.com/media/dox6SHZcqHgOs/giphy.gif" alt="foush's Github stats">
+</p><br>
+
+
 
 - [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
 
