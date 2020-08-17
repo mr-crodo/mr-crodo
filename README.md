@@ -19,7 +19,9 @@
 -->
 
 <table><tr><td valign="top" width="50%">
-
+#- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.#
+#- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University
+#- 🌱 I’m currently studying Java Script and React
 
 
 </td></tr></table>
