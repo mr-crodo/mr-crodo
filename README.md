@@ -33,7 +33,7 @@
 
 - [my first portfolio site](https://mr-crodo.github.io/site1/)
 - [my first game in Java Script](https://mr-crodo.github.io/game1/)
-- [my first promo site SpaceX <img src="https://media.giphy.com/media/hTx7NalHuPFYimYxR6/giphy.gif" alt="foush's Github stats">](https://mr-crodo.github.io/spacex/)
+- [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
 - [Интересные штуки на чистом HTML ](https://gist.github.com/chrisryana/303fe64e5a42b395b0ef1bcd14830492)
 - [Полезняк на CSS](https://gist.github.com/chrisryana/17bdb7ba64f189201cb8e81421e30106)
 
