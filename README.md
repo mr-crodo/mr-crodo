@@ -1,4 +1,4 @@
-<p align='center'>
+<p >
   <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
 </p>
 
@@ -9,7 +9,7 @@
 - ✨ Bachelor of Applied Mathematics and Cybernetics at Baku State University.
 </h4>
 <h4>
-- ✨ I’m currently studying Java Script and React.
+- ✨ I’m currently studying Java Script and VueJS.
 </h4>
 
 
@@ -21,7 +21,7 @@
 </h2>
 
 <p align="center">
-- 🔭 This is my gitHub stats
+- ✨ This is my gitHub stats
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&border=true" alt="foush's Github stats">
@@ -42,7 +42,7 @@
 - [my first game in Java Script](https://mr-crodo.github.io/game1/)
 
 - [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
-- [Интересные штуки на чистом HTML ](https://gist.github.com/chrisryana/303fe64e5a42b395b0ef1bcd14830492)
+- [game guiz](https://gist.github.com/chrisryana/303fe64e5a42b395b0ef1bcd14830492)
 - [Полезняк на CSS](https://gist.github.com/chrisryana/17bdb7ba64f189201cb8e81421e30106)
 
 </td></tr></table>
