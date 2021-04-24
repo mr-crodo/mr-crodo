@@ -1,5 +1,5 @@
-<p align='center'>
-  <img  src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" alt="логотип GitHub">
+<p align='center' style="width: 100%">
+  <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
 </p>
 
 
@@ -24,7 +24,7 @@
 - ✨ This is my gitHub stats
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&border=true" alt="foush's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=onedark" alt="foush's Github stats">
 </p><br>
 
 <p align="center">
