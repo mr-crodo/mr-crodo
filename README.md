@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=tokyonight" alt="foush's Github stats"> -->
-  <img src="https://api.github.com/repos/mr-crodo/all/stats/code_frequency" alt="foush's Github stats">
+  <img src="https://api.github.com/repos/mr-crodo/mr-crodo.github.io/stats/code_frequency" alt="foush's Github stats">
 </p><br>
 
 <p align="center">
