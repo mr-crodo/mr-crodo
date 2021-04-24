@@ -3,14 +3,14 @@
 </p>
 
 
-<h2>
-- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.</h2>
-<h2>
-- 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University.
-</h2>
-<h2>
-- 🌱 I’m currently studying Java Script and React.
-</h2>
+<h4>
+- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.</h4>
+<h4>
+- ✨ Bachelor of Applied Mathematics and Cybernetics at Baku State University.
+</h4>
+<h4>
+- ✨ I’m currently studying Java Script and React.
+</h4>
 
 
 
