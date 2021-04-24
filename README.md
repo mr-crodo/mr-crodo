@@ -1,5 +1,5 @@
-<p align='center' width="100px">
-  <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
+<p align='center' style="width:">
+  <img  src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" alt="логотип GitHub">
 </p>
 
 
