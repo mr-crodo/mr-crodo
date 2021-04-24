@@ -1,4 +1,4 @@
-<p align='center' style="width:">
+<p align='center' style="width: 100%;">
   <img  src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" alt="логотип GitHub">
 </p>
 
