@@ -24,7 +24,7 @@
 - ✨ This is my gitHub stats
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=synthwave&border=true" alt="foush's Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=tokyonight" alt="foush's Github stats">
 </p><br>
 
 <p align="center">
