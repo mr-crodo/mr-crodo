@@ -2,19 +2,15 @@
   <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
 </p>
 
-
 <h4>
-- 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.</h4>
-<h4>
-- ✨ Bachelor of Applied Mathematics and Cybernetics at Baku State University.
-</h4>
-<h4>
-- ✨ I’m currently studying Java Script and VueJS.
+- ✨ Hey, I’m Nasib.
+<br>
+I’m a junior developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
 </h4>
 
 
 
-<h2 align="center">
+<h2>
 
 - [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
 
@@ -31,15 +27,16 @@
 </p>
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="100%">
 
 **:memo: my works**
 
-- [my first portfolio site](https://mr-crodo.github.io/site1/)
-- [game in Java Script](https://mr-crodo.github.io/trafficracer/)
-- [promo site SpaceX](https://mr-crodo.github.io/spacex/)
-- [JS game guiz](https://mr-crodo.github.io/quiz/)
-- [Полезняк на CSS](https://gist.github.com/chrisryana/17bdb7ba64f189201cb8e81421e30106)
+- [Todo Application in JavaScript &rarr;](https://mr-crodo.github.io/todo/)
+- [game in Java Script &rarr;](https://mr-crodo.github.io/trafficracer/)
+- [promo site SpaceX &rarr;](https://mr-crodo.github.io/spacex/)
+- [JS game guiz &rarr;](https://mr-crodo.github.io/quiz/)
+- [Website using a framework Bootstrap &rarr;](https://mr-crodo.github.io/tinyone/)
+- [Search Movies Site &rarr;](https://mr-crodo.github.io/netclics1/)
 
 </td></tr></table>
 
@@ -47,12 +44,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.
 - 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University
-- 🌱 I’m currently studying Java Script and React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m currently studying React and Vue JS.
+- 💬 Ask me about - [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
