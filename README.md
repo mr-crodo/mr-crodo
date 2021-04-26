@@ -1,12 +1,12 @@
-<p align='center' style="width: 100%">
+<!-- <p align='center' style="width: 100%">
   <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
-</p>
+</p> -->
 
-<h4>
-- ✨ Hey, I’m Nasib.
-<br>
-I’m a junior developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
-</h4>
+- ✨ Hey, I’m Nasib 👾 .
+
+
+
+- ✨I’m a junior developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
 
 
 
@@ -27,7 +27,7 @@ I’m a junior developer, currently living in Baku. Right now I am working on im
 </p>
 
 
-<table><tr><td valign="center" width="100%">
+<table><tr><td align="center" width="100%">
 
 **:memo: my works**
 
