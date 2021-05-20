@@ -39,8 +39,6 @@
 
 </td></tr></table>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on to improve portfolio, each time developing new sites and using new technologies.
 - 🌱 Bachelor of Applied Mathematics and Cybernetics at Baku State University
 - 👯 I’m currently studying React and Vue JS.
