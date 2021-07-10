@@ -22,15 +22,9 @@
 
 <h2>
 
-- [my first promo site SpaceX](https://mr-crodo.github.io/spacex/)
+- [My portfolio in Vuejs](https://nasibmammadov.000webhostapp.com)
 
 </h2>
-
-<p align="center">
-✨ This is my gitHub stats
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=merko" alt="foush's Github stats"><br>
 
 ## :trophy: My GitHub stats:
 <div>
