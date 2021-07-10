@@ -32,13 +32,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=merko" alt="foush's Github stats"><br>
 
-## :trophy: Моя GitHub Статистика:
+## :trophy: My GitHub stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=dracula">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=highcontrast" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=tokyonight" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=cobalt" />
 </a>
 </div>
 
