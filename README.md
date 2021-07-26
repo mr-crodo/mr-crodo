@@ -86,9 +86,11 @@ lang :  :azerbaijan: :us: :ru: :tr:
 <a href="https://github.com/mr-crodo/full-todo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
-
 <a href="https://github.com/mr-crodo/video-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=video-chat" />
+</a>
+<a href="https://github.com/mr-crodo/weather-vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=weather-vue" />
 </a>
 
 
