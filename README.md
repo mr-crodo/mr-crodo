@@ -37,7 +37,7 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=dracula" />
 </a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula))](https://github.com/mr-crodo/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula)](https://github.com/mr-crodo/github-readme-stats)
 
 </div>
 
@@ -77,11 +77,15 @@
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
+:star:OK
 <a href="https://github.com/mr-crodo/full-todo">
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
 
+![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
