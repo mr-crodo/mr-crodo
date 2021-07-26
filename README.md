@@ -67,7 +67,15 @@
 - 💬 Ask me about :
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/mr-crodo/full-todo)
+
+<a href="https://github.com/mr-crodo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/mr-crodo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=convoychat" />
+</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/mr-crodo/full-todo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node)
 
