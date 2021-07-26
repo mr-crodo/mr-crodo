@@ -68,9 +68,6 @@
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
 
-<a href="https://github.com/mr-crodo/full-todo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
-</a>
 <a href="https://github.com/mr-crodo/online-store-node">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
@@ -79,12 +76,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
+<a href="https://github.com/mr-crodo/full-todo">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
+</a>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/mr-crodo/full-todo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/vue-covid) -->
 
 
 
