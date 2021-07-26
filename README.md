@@ -74,38 +74,23 @@
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
 <a href="https://github.com/mr-crodo/online-store-node">
-<span>:star: :star: :star: :star: :star:</span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 <a href="https://github.com/mr-crodo/vue-covid">
-<span>:star: :star: :star: :star: :star:</span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
 
 <a href="https://github.com/mr-crodo/full-todo">
-  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
-<a href="https://github.com/mr-crodo/vue-covid">
-  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
-</a>
-
-:white_check_mark:OK
-<a href="https://github.com/mr-crodo/full-todo">
-  <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
+<a href="https://github.com/mr-crodo/video-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=video-chat" />
 </a>
 
 
-<a href="https://github.com/mr-crodo/full-todo" max-width="400px">
 
-<span>
-:star: :star: :star: :star: :star:
-</span>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/full-todo)
-
-</a>
 
 <a href="https://github.com/mr-crodo/full-todo" max-width="400px">
 
