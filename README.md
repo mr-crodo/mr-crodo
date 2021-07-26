@@ -2,7 +2,7 @@
   <img  src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="логотип GitHub">
 </p> -->
 
-✨ 👋 Hey, I’m Nasib 👾 .
+✨ 👋 Hey, I’m Nasib 👾 :octocat: :penguin:.
 
 
 ✨I’m a junior full stack developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
@@ -76,13 +76,13 @@
 <a href="https://github.com/mr-crodo/online-store-node">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
-<a href="https://github.com/mr-crodo/vue-covid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
-</a>
-
 
 <a href="https://github.com/mr-crodo/full-todo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
+</a>
+
+<a href="https://github.com/mr-crodo/vue-covid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
 <a href="https://github.com/mr-crodo/video-chat">
