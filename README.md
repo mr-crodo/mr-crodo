@@ -39,6 +39,9 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula)](https://github.com/mr-crodo/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
 
@@ -67,12 +70,10 @@
 - 💬 Ask me about :
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
-:white_check_mark: Finish
 <a href="https://github.com/mr-crodo/online-store-node">
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 
-:white_check_mark: Finish
 <a href="https://github.com/mr-crodo/vue-covid">
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
