@@ -39,7 +39,10 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula)](https://github.com/mr-crodo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-crodo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
@@ -83,15 +86,22 @@
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
-<p>
+
+<a href="https://github.com/mr-crodo/full-todo" max-width="400px">
+
+<span>
 :star: :star: :star: :star: :star:
-</p>
-<a href="https://github.com/mr-crodo/full-todo" max-width="600px">
+</span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/full-todo)
 
 </a>
-<a href="https://github.com/mr-crodo/full-todo" max-width="600px">
+
+<a href="https://github.com/mr-crodo/full-todo" max-width="400px">
+
+<span>
+:star: :star: :star: :star: :star:
+</span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
