@@ -69,9 +69,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/mr-crodo/full-todo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/vue-covid)
 
 
 
