@@ -85,7 +85,12 @@
 <p width="100%" align="center">
 :star: :star: :star: :star: :star:
 </p>
-<p width="100%" align="center">
+<p width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+<p width="50%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
