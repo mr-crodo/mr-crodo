@@ -37,7 +37,7 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=dracula" />
 </a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo)](https://github.com/mr-crodo/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=radical))](https://github.com/mr-crodo/github-readme-stats)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 -  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/mr-crodo/full-todo)
 
--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/vue-covid)
 
