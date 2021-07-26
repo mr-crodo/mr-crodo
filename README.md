@@ -82,19 +82,19 @@
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
-<p width="100%" align="center">
+<p>
 :star: :star: :star: :star: :star:
 </p>
-<p width="50%">
+<span width="40%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
-<p width="50%">
+</span>
+<span width="40%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</span>
 
 
 
