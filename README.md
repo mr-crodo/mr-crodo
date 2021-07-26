@@ -85,16 +85,16 @@
 <p>
 :star: :star: :star: :star: :star:
 </p>
-<span width="40%">
+<a href="https://github.com/mr-crodo/full-todo" max-width="600px">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/full-todo)
+
+</a>
+<a href="https://github.com/mr-crodo/full-todo" max-width="600px">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
 
-</span>
-<span width="40%">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
+</a>
 
 
 
