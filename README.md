@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-crodo)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-crodo)](https://github.com/mr-crodo/mr-crodo.github.io)
 
 
 
@@ -74,11 +74,11 @@
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
 <a href="https://github.com/mr-crodo/online-store-node">
-  <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
+  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 
 <a href="https://github.com/mr-crodo/vue-covid">
-  <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
+  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
 :white_check_mark:OK
