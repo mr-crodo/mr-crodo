@@ -84,7 +84,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node)](https://github.com/mr-crodo/online-store-node) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/vue-covid)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid)](https://github.com/mr-crodo/vue-covid) -->
 
 
 
