@@ -67,11 +67,12 @@
 - 💬 Ask me about :
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
-
+:white_check_mark: Finish
 <a href="https://github.com/mr-crodo/online-store-node">
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 
+:white_check_mark: Finish
 <a href="https://github.com/mr-crodo/vue-covid">
   <img align="center" max-width="600px" margin="20" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
