@@ -37,7 +37,7 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=dracula" />
 </a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=radical))](https://github.com/mr-crodo/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula))](https://github.com/mr-crodo/github-readme-stats)
 
 </div>
 
