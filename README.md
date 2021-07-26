@@ -74,6 +74,11 @@
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
 <a href="https://github.com/mr-crodo/online-store-node">
+
+<span>
+:star: :star: :star: :star: :star:
+</span>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 <a href="https://github.com/mr-crodo/vue-covid">
@@ -81,8 +86,13 @@
 </a>
 
 
-<a href="https://github.com/mr-crodo/online-store-node">
-  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
+<a href="https://github.com/mr-crodo/full-todo">
+
+<span>
+:star: :star: :star: :star: :star:
+</span>
+
+  <img align="center" max-width="600px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
 <a href="https://github.com/mr-crodo/vue-covid">
