@@ -7,6 +7,8 @@
 
 ✨I’m a junior full stack developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
 
+lang: :az: :us: :ru: :tr:
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square) ![NodeJs](https://img.shields.io/badge/-Node-%25230075a8?logo=express&logoColor=black&color=yellowgreen&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-%25230075a8?logo=php&logoColor=white&color=informational&style=flat-square) ![Vue.js](https://img.shields.io/badge/-Vue.js-%25230075a8?logo=vue.js&Color=white&color=grey&style=flat-square) ![React](https://img.shields.io/badge/-React-%25230075a8?logo=react&color=grey&style=flat-square)
