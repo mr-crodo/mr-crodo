@@ -30,16 +30,16 @@
 
 ## :trophy: My GitHub stats:
 <div>
-<a href="https://readme-stats.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=dracula">
+<!-- <a href="https://readme-stats.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=dracula">
   <img  align="left" src="https://readme-stats.vercel.app/api?username=mr-crodo&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://readme-stats.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats.vercel.app/api/top-langs/?username=mr-crodo&hide=php&theme=dracula" />
-</a>
+</a> -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=dracula)](https://github.com/mr-crodo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr-crodo)](https://github.com/mr-crodo/mr-crodo.github.io)
 
