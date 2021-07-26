@@ -69,15 +69,15 @@
 
 
 <a href="https://github.com/mr-crodo/online-store-node">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
+  <img align="center" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 
 <a href="https://github.com/mr-crodo/vue-covid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
+  <img align="center" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=vue-covid" />
 </a>
 
 <a href="https://github.com/mr-crodo/full-todo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
+  <img align="center" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=full-todo" />
 </a>
 
 
