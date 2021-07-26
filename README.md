@@ -69,7 +69,7 @@
 
 
 <a href="https://github.com/mr-crodo/online-store-node">
-  <img align="center" max-width="600px" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
+  <img align="center" max-width="600px" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=online-store-node" />
 </a>
 
 <a href="https://github.com/mr-crodo/vue-covid">
