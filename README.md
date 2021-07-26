@@ -67,3 +67,5 @@
 - 💬 Ask me about :
 -  [![Telegram](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=telegram)](https://t.me/mr_crodo)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=github-readme-stats)](https://github.com/mr-crodo/github-readme-stats)
+
