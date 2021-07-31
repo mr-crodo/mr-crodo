@@ -94,6 +94,10 @@ lang :  :azerbaijan: :us: :ru: :tr:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=weather-vue" />
 </a>
 
+<a href="https://github.com/mr-crodo/ubiquitous-doodle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=ubiquitous-doodle" />
+</a>
+
 
 
 
