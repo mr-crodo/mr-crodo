@@ -98,6 +98,14 @@ lang :  :azerbaijan: :us: :ru: :tr:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=ubiquitous-doodle" />
 </a>
 
+<a href="https://github.com/mr-crodo/jovid-19-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=jovid-19-bot" />
+</a>
+
+<a href="https://github.com/mr-crodo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-crodo&repo=bot-nodejs" />
+</a>
+
 
 
 
