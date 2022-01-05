@@ -43,7 +43,7 @@ lang :  :azerbaijan: :us: :ru: :tr:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-crodo&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Nasib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr_crodo)](https://github.com/mr-crodo/)
+<!-- [![Nasib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mr_crodo)](https://github.com/mr-crodo/) -->
 
 
 
