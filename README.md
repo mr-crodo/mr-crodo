@@ -11,7 +11,7 @@ lang :  :azerbaijan: :us: :ru: :tr:
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/-PHP-%25230075a8?logo=php&logoColor=white&color=informational&style=flat-square) ![Vue.js](https://img.shields.io/badge/-Vue.js-%25230075a8?logo=vue.js&Color=white&color=grey&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-%25230075a8?logo=angular&color=red&style=flat-square)
+  ![NodeJs](https://img.shields.io/badge/-Node-%25230075a8?logo=php&logoColor=white&color=informational&style=flat-square) ![Vue.js](https://img.shields.io/badge/-Vue.js-%25230075a8?logo=vue.js&Color=white&color=grey&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-%25230075a8?logo=angular&color=red&style=flat-square)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square)
 </div>
 
