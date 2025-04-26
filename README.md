@@ -5,7 +5,7 @@
 ✨ 👋 Hey, I’m Nasib 👾 :octocat: :penguin:.
 
 
-✨I’m a junior full stack developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
+✨I’m a full stack developer, currently living in Baku. Right now I am working on improving my portfolio. Let’s grab a coffee.
 
 lang :  :azerbaijan: :us: :ru: :tr:
 
