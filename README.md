@@ -15,7 +15,11 @@ Building production-grade applications with **TypeScript** and exploring **Golan
 
 ## 💻 Tech Stack
 
-**Backend:** NestJS • Node.js • TypeORM • Prisma • PostgreSQL • Redis
+**Backend:** Golang • NestJS • Node.js • TypeORM • Prisma • Redis
+
+**Databases:** PostgreSQL • MySQL • MongoDB
+
+**Architecture:** Microservices • REST API • gRPC
 
 **Frontend:** TypeScript • JavaScript • HTML • CSS
 
