@@ -31,7 +31,6 @@ Building production-grade applications with **TypeScript** and exploring **Golan
 
 ## 📊 GitHub Stats
 
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mr-crodo&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
