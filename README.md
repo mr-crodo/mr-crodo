@@ -42,3 +42,4 @@ Building production-grade applications with **TypeScript** and exploring **Golan
 [![Telegram](https://img.shields.io/badge/Telegram-@mr__crodo-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mr_crodo)
 
 ![](https://hit.yhype.me/github/profile?account_id=47853924)
+
