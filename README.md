@@ -1,6 +1,6 @@
 # Hey, I'm Nasib 👋
 
-**Full Stack Developer** crafting robust web applications and scalable backend systems.
+**Software Engineer** crafting robust web applications and scalable backend systems.
 
 📍 Baku, Azerbaijan  
 🌐 [mrcrodo.com](https://www.mrcrodo.com) • [nasib.mrcrodo.com](https://nasib.mrcrodo.com)
